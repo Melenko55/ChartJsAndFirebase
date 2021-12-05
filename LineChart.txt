@@ -25,7 +25,7 @@ borderCapStyle - Cap style of the line  "butt" || "round" || "square"
 borderColor - The line color
 borderDash - Length and spacing of dashes
 borderDashOffset - Offset for line dashes
-borderJoinStyle - Line joint style
+borderJoinStyle - Line joint style  "bevel" || "round" || "miter"
 borderWidth - The line width
 fill - How to fill the area under the line
 tension - Bezier curve tension of the line. Set to 0 to draw straightlines. This option is ignored if monotone cubic interpolation is used.
